@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Allison
+-Profissão:Analista de TI QA
+-Cidade: Belém
+-O que faz nas horas vaga: Jogar futebol e Assitir videos relacionados a tecnologia
+-Feedback sobre o curso Qualidade de Software: Atualizar as informações referente aos testes automatizados
+-Feedback sobre a plataforma de estudo da EBAC:sem
+
+Obrigado!!!
+
+
